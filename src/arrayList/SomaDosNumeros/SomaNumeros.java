@@ -1,4 +1,4 @@
-package SomaDosNumeros;
+package arrayList.SomaDosNumeros;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,6 +6,7 @@ import java.util.List;
 public class SomaNumeros {
     private List<Integer> numeros;
     public SomaNumeros() {
+
         numeros = new ArrayList<Integer>();
     }
 

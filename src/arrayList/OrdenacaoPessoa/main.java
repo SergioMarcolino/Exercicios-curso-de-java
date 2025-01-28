@@ -1,4 +1,4 @@
-package OrdenacaoPessoa;
+package arrayList.OrdenacaoPessoa;
 
 public class main {
     public static void main(String[] args) {

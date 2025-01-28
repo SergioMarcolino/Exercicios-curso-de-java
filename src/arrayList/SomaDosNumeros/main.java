@@ -1,6 +1,4 @@
-package SomaDosNumeros;
-
-import java.util.Collections;
+package arrayList.SomaDosNumeros;
 
 public class main {
     public static void main(String[] args) {

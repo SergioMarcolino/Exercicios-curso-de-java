@@ -1,4 +1,4 @@
-package Main.java.Ordenacao;
+package arrayList.Ordenacao;
 
 public class Main {
     public static void main(String[] args) {
